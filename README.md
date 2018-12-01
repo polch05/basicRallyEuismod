@@ -1,2 +1,2 @@
-# basicRallyeuismod
+# basicRallyEuismod
 Basic Rally Grid
