@@ -43,6 +43,9 @@ Ext.define('CustomApp', {
 
 },
 
+function someFunction() {
+alert("Hello World, what is this:", this);
+}
 // var myStore = Ext.create('Rally.data.wsapi.Store', {
 //     model: 'User Story',
 //     autoLoad: true,
