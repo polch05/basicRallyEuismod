@@ -43,9 +43,6 @@ Ext.define('CustomApp', {
 
 },
 
-function someFunction() {
-alert("Hello World, what is this:", this);
-}
 // var myStore = Ext.create('Rally.data.wsapi.Store', {
 //     model: 'User Story',
 //     autoLoad: true,
@@ -68,3 +65,9 @@ alert("Hello World, what is this:", this);
 // });
         //API Docs: https://help.rallydev.com/apps/2.1/doc/
 });
+
+function someFunction() {
+	alert("Hello World, what is this:", this);
+	}
+
+	someFunction();
