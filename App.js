@@ -65,3 +65,9 @@ Ext.define('CustomApp', {
 // });
         //API Docs: https://help.rallydev.com/apps/2.1/doc/
 });
+
+function someFunction() {
+	alert("Hello World, what is this:", this);
+	}
+
+	someFunction();
