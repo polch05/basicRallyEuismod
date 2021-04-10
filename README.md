@@ -15,3 +15,7 @@ polch05  console  -                14Dec20 10days -
 polch05  s000     -                11:03       - w
 
 Editing the file in VB on iMac March 27th 2021. 09:53 AM
+
+New Grid: with wsapi.dataStore with model = 'Defect'.
+Added IterationComboBox and FieldValueComboBox to have filters for Iteration and Severity
+Also, all for reuse of the Grid.˝G©˝˝
