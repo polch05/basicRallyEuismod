@@ -13,3 +13,5 @@ Once it is edited I shall push to the GitHub repo.
 USER     TTY      FROM              LOGIN@  IDLE WHAT
 polch05  console  -                14Dec20 10days -
 polch05  s000     -                11:03       - w
+
+Editing the file in VB on iMac March 27th 2021. 09:53 AM
