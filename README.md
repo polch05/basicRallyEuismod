@@ -13,3 +13,7 @@ Once it is edited I shall push to the GitHub repo.
 USER     TTY      FROM              LOGIN@  IDLE WHAT
 polch05  console  -                14Dec20 10days -
 polch05  s000     -                11:03       - w
+
+This is an update directly to the README.md in the GitHub GUI.
+This is made on May 3rd directy on GitHub.com
+We will push the changes on the local repo (create a PR to merge into master too), in addition to this change.
