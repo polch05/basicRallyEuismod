@@ -1,0 +1,6 @@
+* Rebuilt URL to: https://api.replicated.com/
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Could not resolve host: api.replicated.com
+* Closing connection 0
+curl: (6) Could not resolve host: api.replicated.com
