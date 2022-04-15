@@ -32,7 +32,7 @@
         },
         scope: this
     },
-    fetch: ['FormattedID', 'Name', 'Project', 'ScheduleState', 'Blocked', 'DisplayColor', 'Discussion']
+    fetch: ['FormattedID', 'Name', 'Project', 'ScheduleState', 'Blocked', 'DisplayColor', 'Discussion','Iteration','DragAndDropRank','Risks','Release','AcceptedDate']
 });
 
 },
@@ -43,7 +43,7 @@
 	let myGrid = Ext.create('Rally.ui.grid.Grid', {
           	store: myGridStore,
           	columnCfgs: [
-          	"FormattedID", "Name", 'Project', "ScheduleState", 'Blocked', 'DisplayColor', 'Discussion',
+          	"FormattedID", "Name", 'Project', "ScheduleState", 'Blocked', 'DisplayColor', 'Discussion','Iteration','DragAndDropRank','Risks','Release','AcceptedDate'
           	]
           });
 
